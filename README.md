@@ -5,8 +5,8 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>img_link</th>
-      <th>title_link</th>
+      <th>YouTube</th>
+      <th>title</th>
     </tr>
   </thead>
   <tbody>
